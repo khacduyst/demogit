@@ -1,0 +1,660 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newIndex"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"count",
+				"countobj"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"tm",
+				"tm	tweenmax"
+			],
+			[
+				"parall",
+				"parallaxFrm1"
+			],
+			[
+				"old",
+				"oldDivModule"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"Message",
+				"logMessage"
+			],
+			[
+				"article",
+				"articlestr"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"rightP",
+				"rightPanelTimeline"
+			],
+			[
+				"right",
+				"rightPanelTimeline"
+			],
+			[
+				"short",
+				"shortNewUrl"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ca",
+				"cache"
+			],
+			[
+				"SCROLL_DISTANCE_M",
+				"SCROLL_DISTANCE_MAX"
+			],
+			[
+				"delta",
+				"deltaY"
+			],
+			[
+				"scro",
+				"scrollPos"
+			],
+			[
+				"sco",
+				"scrollPos"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"bot",
+				"bottle_water"
+			],
+			[
+				"st",
+				"stop"
+			],
+			[
+				"sc",
+				"scrollPos"
+			],
+			[
+				"acti",
+				"activeAnimation"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"alwa",
+				"always"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"exp",
+				"exportRoot"
+			],
+			[
+				"ex",
+				"exportRoot"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"snippet ma",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tween",
+				"Snippet: tweenmax"
+			],
+			[
+				"Snippet: tween",
+				"Snippet: tweenmax"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"funct",
+				"Snippet: Function"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Paclage",
+				"Package Control: Install Package"
+			],
+			[
+				"b",
+				"Snippet: bs3-alert"
+			],
+			[
+				"jquer		",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery ready function"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Projects/pocarishtml/microsite"
+	],
+	"file_history":
+	[
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Projects/pocarishtml/microsite/app/scripts/animation.js",
+		"/Volumes/Projects/pocarishtml/microsite/app/scripts/index.js",
+		"/Volumes/Projects/pocarishtml/microsite/app/scripts/about.js",
+		"/Volumes/Projects/pocarishtml/microsite/app/scripts/bennefit.js",
+		"/Volumes/Projects/pocarishtml/microsite/app/scripts/stores.js",
+		"/Volumes/Projects/pocarishtml/microsite/app/scripts/outsuka.js",
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/Volumes/Projects/pocarishtml/microsite/app/outsuka.html",
+		"/Users/macbookretina/Desktop/test.html",
+		"/Volumes/Projects/pocarishtml/microsite/dist/scripts/animation.js",
+		"/Volumes/Projects/pocarishtml/microsite/.tmp/styles/main.css",
+		"/Volumes/Projects/pocarishtml/microsite/app/index.html",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/lang/isNull.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/install.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-contrib-imagemin/node_modules/chalk/node_modules/.bin/strip-ansi",
+		"/Volumes/Projects/pocarishtml/microsite/.tmp/stores.html",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/modernizr/feature-detects/script-defer.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/customscrollpane/examples/nested_scrollbars_demo_alt.html",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/jquery/src/effects/animatedSelector.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-contrib-jshint/node_modules/jshint/data/ascii-identifier-data.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.underscore.js",
+		"/Volumes/Projects/pocarishtml/microsite/.sass-cache/b1ab2a1939fc6a05f6245b1ea09a3dc76e6b1cc0/main.scssc",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/User/myarr.sublime-snippet",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/attribute-no-space.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/nodes.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt/node_modules/coffee-script/lib/coffee-script/grammar.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/parallax-master/bower.json",
+		"/Volumes/Projects/pocarishtml/microsite/bower.json",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/alt-na.json",
+		"/Volumes/Projects/pocarishtml/microsite/.tmp/about.html",
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/parallax-master/deploy/parallax.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/parallax-master/source/parallax.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/parallax-master/deploy/parallax.min.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/queryString/getParam.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/parallax/parallax.min.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/modernizr/feature-detects/pointerlock-api.js",
+		"/Volumes/Projects/pocarishtml/microsite/package.json",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/parallax-master/deploy/jquery.parallax.js",
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/User/tweenmax-delay.sublime-snippet",
+		"/Users/macbookretina/Library/Application Support/Sublime Text 3/Packages/User/tweenmax.sublime-snippet",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/gsap/src/uncompressed/TweenMax.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/jquery/src/effects/Tween.js",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt/node_modules/dateformat/test/test_weekofyear.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/jquery/src/traversing.js",
+		"/Volumes/Projects/pocarishtml/microsite/bower_components/modernizr/test/caniuse_files/Windsong-webfont.otf",
+		"/Volumes/Projects/pocarishtml/microsite/node_modules/grunt-contrib-cssmin/node_modules/clean-css/lib/properties/shorthand-notations.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/scripts/bizzon.functions.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/index.html",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/lang/isNull.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/install.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/bower_components/modernizr/test/caniuse_files/style.css",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/bower_components/modernizr/feature-detects/style-scoped.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/node_modules/jshint-stylish/stylish.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/bower_components/flowplayer/features/support/setup-tunnel.bash",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/bower_components/bootstrap-sass-official/sache.json",
+		"/Users/macbookretina/Desktop/text.html",
+		"/Volumes/Projects/enrich2014/trunk/development/html/new/bower_components/bgstretcher/jquery-bgstretcher-3.3.0.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/new/app/index.html",
+		"/Volumes/Projects/enrich2014/trunk/development/html/new/app/angularjs/directives/mainDirectives.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/new/app/angularjs/partials/partner-offers.tpl",
+		"/Volumes/Projects/enrich2014/trunk/development/html/new/app/angularjs/partials/global/backgroundslider.tpl",
+		"/Volumes/Projects/enrich2014/trunk/development/html/new/app/angularjs/directives/globalDirectives.js",
+		"/Volumes/Projects/Xcode/everyplay/Native Extension/buildcommand.sh",
+		"/Volumes/Projects/Xcode/everyplay/Native Extension/build/nextpeer-ios-platformoptions.xml",
+		"/Volumes/Projects/Xcode/everyplay/Native Extension/build/nextpeer-extension.xml",
+		"/Users/macbookretina/Desktop/GameDesigns/development/NextpeerANE/buildcommand.sh",
+		"/Volumes/Projects/enrich2014/trunk/development/html/malaysiaAirline/app/angularjs/controllers/globalController.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/malaysiaAirline/app/angularjs/directives/globalDirectives.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/malaysiaAirline/app/angularjs/directives/mainDirectives.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/bower_components/bgstretcher/jquery-bgstretcher-3.3.0.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/directives/mainDirectives.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/controllers/globalController.js.mine",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/controllers/globalController.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/partials/enrish-offers.tpl",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/data/enrishoffer-post1.json",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/data/newsevents-contest-winners-revealed-in-buka-puasa-get-together.json",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/data/partneroffer-post1.json",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/partials/news-events.tpl",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/data/newsevents.json",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/partials/main.tpl",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/directives/journeyDirectives.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/Gruntfile.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/partials/global/mainnav.tpl",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/controllers/menuController.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/app.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/directives/menuDirectives.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/bower_components/responsiveSlides.js/responsiveslides.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/directives/globalDirectives.js",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app/angularjs/partials/global/backgroundslider.tpl",
+		"/Volumes/Projects/enrich2014/trunk/development/html/microsite/bower_components/responsiveSlides.js/responsiveslides.css",
+		"/Users/macbookretina/Desktop/GameDesigns/development/thoitrang/src/MyPainting.as",
+		"/Volumes/Projects/colorblind/development/ColorBlind/src/assets/textures/2x/gameassets1.xml",
+		"/Volumes/Projects/colorblind/development/ColorBlind/src/assets/textures/1x/gameassets1.xml",
+		"/Users/macbookretina/StarlingGAFPlayer/demo/fireman/src/FiremanGame.as",
+		"/Users/macbookretina/StarlingGAFPlayer/gaf/bin/gaf/catalog.xml",
+		"/Volumes/Projects/lactacydbanners/deploy/Game.html",
+		"/private/var/folders/zj/mvw120bj6mq89jjfrfx5qtjc0000gn/T/fz3temp-1/info.php",
+		"/Users/macbookretina/Desktop/GAUtils.as",
+		"/Users/macbookretina/Desktop/GameDesigns/development/Fdots/src/components/GAUtils.as",
+		"/Users/macbookretina/Desktop/GameDesigns/development/SpaceIsKey/src/assets/textures/1x/gameassets0.xml",
+		"/Users/macbookretina/airnativeextensions/pushnotifications/example/src/TestPushNotifications.as",
+		"/Users/macbookretina/Desktop/GameDesigns/development/NextpeerANE/asdocs/override.css",
+		"/Users/macbookretina/ANE-Game-Center/actionscript/src/com/sticksports/nativeExtensions/gameCenter/GameCenter.as",
+		"/Users/macbookretina/Downloads/Notifications/build/ane/catalog.xml",
+		"/Users/macbookretina/Downloads/Notifications/build/ane/extension.xml",
+		"/Users/macbookretina/Downloads/Notifications/build.sh",
+		"/Users/macbookretina/Downloads/Notifications/jar/src/com/leebrimelow/notifications/NotificationExtension.java",
+		"/Users/macbookretina/Desktop/GameDesigns/development/BabyMaze/src/assets/textures/1x/game-elements.xml",
+		"/Users/macbookretina/Starling-Framework/samples/demo_mobile/src/Demo_Mobile.as",
+		"/Users/macbookretina/Starling-Framework/samples/scaffold_mobile/src/Scaffold_Mobile.as",
+		"/Users/macbookretina/Starling-Framework/samples/demo/src/scenes/TouchScene.as",
+		"/Volumes/Projects/capitalplus/flaauto/dropfile/Main.as",
+		"/Users/macbookretina/ANE-Facebook/actionscript/src/com/freshplanet/ane/AirFacebook/Facebook.as",
+		"/Users/macbookretina/Downloads/nweber-SystemVolumeNativeExtension-cd5c784/VolumeDefault/src/net/digitalprimates/volume/VolumeController.as",
+		"/Users/macbookretina/Downloads/nweber-SystemVolumeNativeExtension-cd5c784/build/platformoptions.xml",
+		"/Users/macbookretina/Desktop/GameDesigns/development/NextpeerANE/build/nextpeer-extension.xml",
+		"/Users/macbookretina/Dropbox/importance files/Jedi_Knight_Package/NativeExtensionTutorial/Native Extension/AirLibraryDefault/src/com/diadraw/extensions/tutorial/AirNativeExtension.as",
+		"/Users/macbookretina/Desktop/GameDesigns/development/BabyMaze/src/BabyMaze-app.xml",
+		"/Users/macbookretina/Desktop/GameDesigns/development/NextpeerANE/build/nextpeer-ios-platformoptions.xml",
+		"/Volumes/Projects/Xcode/NativeExtensionTutorial/Native Extension/TestAne/src/testAne.as",
+		"/Volumes/Projects/Xcode/NativeExtensionTutorial/Native Extension/AirLibrary/src/com/diadraw/extensions/tutorial/AirNativeExtension.as",
+		"/Users/macbookretina/Downloads/admob-ane-master/examples/demo.as",
+		"/Users/macbookretina/ANE-Game-Center/test/src/GameCenterExtensionTest.as"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/Projects/pocarishtml/microsite/app",
+			"/Volumes/Projects/pocarishtml/microsite/app/scripts",
+			"/Volumes/Projects/enrich2014/trunk/development/html/new/app",
+			"/Volumes/Projects/enrich2014/trunk/development/html/malaysiaAirline/app",
+			"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app",
+			"/Volumes/Projects/enrich2014/trunk/development/html/microsite/",
+			"/Volumes/Projects/enrich2014/trunk/development/html/microsite/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			"bxSlider",
+			"Benfr3SlideThumb",
+			"	      \n",
+			"GotoAnimation",
+			"	    \n",
+			"one\ntwo\nthree\nfour\nfive\nsix\nseven\neight",
+			"callAnimation",
+			">\n",
+			"			\n",
+			"	        		\n",
+			"top",
+			"fr3Cl",
+			"imgScroll",
+			"showImageQuick",
+			"moveCurrentIn",
+			"isFirstLook",
+			"isAnimationInAlready",
+			"menuAnimIn",
+			"menuSwitch",
+			"slideShow",
+			"showImageQuick",
+			"showImageQuickByName",
+			"setImageToBackgroud",
+			"moveCurrent",
+			"getMenuIndex",
+			"showImageQuick",
+			"quickMoveIn",
+			"mainExpandMask",
+			"moveBackground",
+			"100",
+			"pageAnimationOut",
+			"pageAnimationIn",
+			"pageAnimationOut",
+			"setVideoButtonShow",
+			"animateRightPanelChangeContentOut",
+			"animateRightPanelChangeContentIn",
+			"animateRightPanelChangeContentOut",
+			"animateRightPanelChangeContentVideoOut",
+			"animateRightPanelChangeContentVideoIn",
+			"expanseRightPanelOnVideo",
+			"setupOfferRightPanelTimeLine",
+			"hideVideoOut",
+			"showVideoIn",
+			"setVideoToSmallSize",
+			"switchMenuState",
+			"createLeftMenuSlideAni",
+			"slideLeftmenuIn",
+			"moveRightPanelIn",
+			"imgScroll",
+			"console.log",
+			"animateRightPanelChangeContentVideoIn",
+			"getImageFromURL",
+			"showImageQuick",
+			">>>>>>>",
+			"showImageQuick",
+			"expandVideo",
+			"showMiniRightPanel",
+			"expandVideo",
+			"right-switch-state",
+			"rightSwitchState",
+			"undefined",
+			"getImageFromURL",
+			"setupOfferRightPanelTimeLine",
+			"pageAnimationIn",
+			"getImageFromURL",
+			"playBackIndexWithImgName",
+			"playNextIndexWithImgName",
+			"showImageQuickByName",
+			".tabItem",
+			"rightTab",
+			"right-tab",
+			"isDirectionUp",
+			"bgStretcher",
+			"mainExpand",
+			"showVideoIn",
+			"showVideoIn()",
+			"showVideoIn",
+			"location change start",
+			"bgStretcher",
+			"true",
+			"pageAnimationOut",
+			"pageAnimationIn",
+			"moveRightPanelOut",
+			"moveRightPanelIn",
+			"journeyWrap",
+			"oldURLModule",
+			"console.log",
+			"console",
+			"        \n",
+			"slideShow",
+			"preload",
+			"shortNewUrl",
+			"slideShow(",
+			"slideshow",
+			"shorturl",
+			"change-page",
+			"playNextIndex",
+			"kill(",
+			"change",
+			"slideShow",
+			"hide",
+			"display",
+			");\n",
+			"transitionEffect",
+			"fade",
+			"face",
+			"buttonSlide",
+			"playNextIndex",
+			"bgstretcher",
+			"bgstretcher-area",
+			"callback",
+			"true",
+			"next",
+			"navClass",
+			"nextText",
+			"ẩn hết ",
+			"featureText",
+			"optionText",
+			"fzip",
+			"	 *",
+			"getReturnedTransaction",
+			"fileOpen",
+			"onInvoke",
+			"leaderboardLoadComplete",
+			"tabletDevices",
+			"getRules",
+			"_rules"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"60",
+			"logMessage",
+			"mainSlide",
+			"",
+			"src:\"images/pomegranate/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "pocaris.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"anim",
+				"app/scripts/animation.js"
+			],
+			[
+				"ani",
+				"app/scripts/animation.js"
+			],
+			[
+				"anima",
+				"app/scripts/animation.js"
+			],
+			[
+				"main",
+				".sass-cache/b1ab2a1939fc6a05f6245b1ea09a3dc76e6b1cc0/main.scssc"
+			],
+			[
+				"animat",
+				"app/scripts/animation.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"para",
+				"bower_components/parallax-master/deploy/parallax.js"
+			],
+			[
+				"style",
+				"bower_components/modernizr/test/caniuse_files/style.css"
+			],
+			[
+				"po",
+				"js/fruit_pomegranate.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"io",
+				"/Volumes/Projects/iconsite/ionsite.sublime-project"
+			],
+			[
+				"poc",
+				"~/Desktop/phpunit/pocaris.sublime-project"
+			],
+			[
+				"",
+				"/Volumes/Projects/iconsite/ionsite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"mainWrap"
+			]
+		],
+		"width": 755.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
