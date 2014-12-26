@@ -1,0 +1,31 @@
+<div class="form-group" style="clear:both;" ng-show="repos">
+ <label for="sel1">Sort by:</label>
+ <select class="form-control" id="sel1">
+  <option ng-click="predicate='+name'">Name</option>
+  <option ng-click="predicate='+amount'">Type</option>
+  <option ng-click="predicate='+teacher'">Contributions</option>
+</select>
+</div>
+<a href="/Angular/Day_3/" ng-show="repos"><span class="text-info">Back to Search</span></a><br>
+<a href="/Angular/Day_3/user/{{username}}/repos" ng-show="repos"><span class="text-info">Back to {{username}}'s repository</span></a>
+<table class="table" ng-show="repos">
+  <caption style="text-align:center;font-size:1.2em">List of Contributor</caption>
+  <thead>
+    <tr>
+      <th style="text-align:left"><a href="" ng-click="predicate='login';reverse=!reverse">Name</a></th>
+      <th>Avatar</th>
+      <th><a href="" ng-click="predicate='type';reverse=!reverse">Type</a></th>
+      <th><a href="" ng-click="predicate='contributions';reverse=!reverse">Contributions</a></th>
+      <th><a href="" ng-click="predicate='site_admin';reverse=!reverse">Admin</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="repo in repos|orderBy:predicate:reverse">
+      <td style="text-align:left">{{repo.login}}</td>
+      <td><img class="profile-img" ng-src="{{repo.avatar_url}}" title="{{repo.login}}"></td>
+      <td>{{repo.type}}</td>
+      <td>{{repo.contributions|number}}</td>
+      <td>{{repo.site_admin}}</td>
+    </tr>
+  </tbody>
+</table>

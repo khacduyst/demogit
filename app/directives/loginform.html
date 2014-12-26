@@ -1,0 +1,8 @@
+<div class="account-wall">
+	<img class="profile-img" ng-src="http://fc09.deviantart.net/fs71/i/2011/168/7/a/totoro_by_noodlecutie123-d3j76oj.png" title="Minh Nguyen">
+	<h2 style="text-align:center">{{user.name}}</h2>
+	<form class="form-signin" ng-submit="search(username)">
+		<input type="text" class="form-control" placeholder="Username to find" required autofocus ng-model="username">
+		<button class="btn btn-lg btn-primary btn-block" type="submit" style="margin-top:10px">Search</button>
+	</form>
+</div>

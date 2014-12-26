@@ -1,0 +1,26 @@
+<div class="form-group" style="clear:both;" ng-show="user">
+       <label for="sel1">Sort by:</label>
+       <select class="form-control" id="sel1">
+        <option ng-click="predicate='+name'">Name</option>
+        <option ng-click="predicate='+stargazers_count'">Stars</option>
+        <option ng-click="predicate='+language'">Language</option>
+      </select>
+    </div>
+    <a href="/Angular/Day_3/" ng-show="repos"><span class="text-info">Back to Search</span></a>
+    <table class="table" ng-show="user">
+      <caption style="text-align:center;font-size:1.5em">List of Repository</caption>
+      <thead>
+        <tr>
+          <th><a style="text-align:left" href="" ng-click="predicate='name';reverse=!reverse">Name</a></th>
+          <th><a href="" ng-click="predicate='stargazers_count';reverse=!reverse">Stars</a></th>
+          <th><a href="" ng-click="predicate='language';reverse=!reverse">Language</a></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="repo in repos|orderBy:predicate:reverse">
+          <td style="text-align:left"><a href="user/{{repo.full_name}}">{{repo.name}}</a></td>
+          <td>{{repo.stargazers_count | number}}</td>
+          <td>{{repo.language}}</td>
+        </tr>
+      </tbody>
+    </table>
